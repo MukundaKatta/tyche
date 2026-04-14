@@ -1,56 +1,35 @@
-# 🔱 Tyche — DeFi Portfolio Tracker
+# tyche — DeFi Portfolio Tracker. DeFi portfolio tracker and yield optimizer
 
-> **Greek Mythology**: Goddess of Luck | DeFi portfolio tracker and yield optimizer
+*Tyche — Greek goddess of fortune.*
 
-[![GitHub Pages](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-blue?style=for-the-badge)](https://MukundaKatta.github.io/tyche/)
-[![GitHub](https://img.shields.io/github/license/MukundaKatta/tyche?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MukundaKatta/tyche?style=flat-square)](https://github.com/MukundaKatta/tyche/stargazers)
+tyche takes its name in that spirit. DeFi Portfolio Tracker. DeFi portfolio tracker and yield optimizer.
 
-## 🚀 Overview
+## Why tyche
 
-DeFi portfolio tracker and yield optimizer
+tyche exists to make this workflow practical. Defi portfolio tracker. defi portfolio tracker and yield optimizer. It favours a small, inspectable surface over sprawling configuration.
 
-**Tech Stack:** TypeScript, Solidity
+## How It Works
 
-## 📦 Quick Start
+The code is organised as a focused, single-purpose module with a clear entry point and minimal ceremony.
+
+## Getting Started
 
 ```bash
-git clone https://github.com/MukundaKatta/tyche.git
-cd tyche
-# Follow setup instructions below
+# Serve the static site
+python -m http.server 8000
+# then open http://localhost:8000
 ```
 
-## 🏗️ Project Structure
+## Usage
+
+See the source files and entry points for concrete usage patterns.
+
+## Project Structure
 
 ```
 tyche/
-├── README.md
-├── LICENSE
 ├── CLAUDE.md
-├── .gitignore
-├── src/
-│   ├── main.py
-│   ├── config.py
-│   └── utils.py
-├── tests/
-│   └── test_main.py
-├── docs/
-│   └── architecture.md
-├── examples/
-│   └── basic_usage.py
-└── .github/
-    └── workflows/
-        └── static.yml
+├── LICENSE
+├── README.md
+├── index.html
 ```
-
-## 🌐 Live Demo
-
-Visit the landing page: **https://MukundaKatta.github.io/tyche/**
-
-## 📄 License
-
-MIT License — © 2026 Officethree Technologies
-
-## 🔱 Part of the Mythological Portfolio
-
-This is project **#tyche** in the [100-project Mythological Portfolio](https://github.com/MukundaKatta) by Officethree Technologies.
